@@ -23,4 +23,6 @@ _____
 To use
 ------
 
+```
 docker build -t lab:latest .
+```
