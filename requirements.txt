@@ -1,6 +1,6 @@
 # Place Python requirements here
 # for example
-requests==2.10.0
+requests==2.24.0
 pexpect==4.0.1
-Jinja2==2.8
-paramiko==2.2.1 
+Jinja2==2.11.2
+paramiko==2.7.2
